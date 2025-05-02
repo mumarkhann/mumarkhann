@@ -1,5 +1,3 @@
-Here’s a revamped version of your GitHub README that reflects your role as a **Business Central Technical & Functional Consultant** with a blend of your MERN and full-stack experience, while keeping the personality and fun intact:
-
 ---
 
 # 💼 About Me
