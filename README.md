@@ -1,12 +1,13 @@
-
----
-
 # 💼 About Me
 
-🔧 I’m a **Business Central Technical & Functional Consultant** with a passion for building solutions that bridge ERP systems and modern web tech.<br>
-🔗 I specialize in **Microsoft Dynamics 365 Business Central**, integrating it with services like **Node.js**, **React**, and **external APIs** to extend ERP functionality.<br>
-☁️ Currently exploring **AWS Cloud Engineering** to level up deployment, automation, and scalability.<br>
-🧠 Always up for solving complex business logic—be it through AL code, API orchestration, or backend automation.<br>
+🔧 I’m a **Business Central Technical & Functional Consultant** with a passion for building solutions that bridge ERP systems and modern web tech. 
+ 
+🔗 I specialize in **Microsoft Dynamics 365 Business Central**, integrating it with services like **Node.js**, **React**, and external APIs to extend ERP functionality.
+
+☁️ Currently exploring **AWS Cloud Engineering** to level up deployment, automation, and scalability.
+
+🧠 Always up for solving complex business logic—be it through AL code, API orchestration, or backend automation.
+
 🧟 Fun fact: I started coding at 16 trying to make a zombie server in CS 1.6… it became one of the top 100 servers globally out of 4,000.
 
 ---
@@ -19,6 +20,14 @@
 * ⚙️ **Automation**: Job queues, scheduled reports, payment reconciliation, BullMQ
 * 🧰 **Web Stack**: MERN (MongoDB, Express.js, React, Node.js), TypeScript, PostgreSQL
 * 🛠️ **Tools**: Docker, Postman, Azure Document Intelligence, GitHub Actions, Power Platform
+
+---
+
+# 📜 Certifications
+
+🎓 [**Microsoft Certified: Dynamics 365 Business Central Developer Associate**](https://learn.microsoft.com/en-gb/users/muk18jul/credentials/7008b93f84826c9)
+
+🔗 [LinkedIn profile certifications](https://www.linkedin.com/in/muk18jul/details/certifications/)
 
 ---
 
